@@ -24,7 +24,7 @@ I added a white shadow to the unfunded, funded, and all games buttons with it be
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/bUVYFT6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 <!-- Replace this with whatever GIF tool you used! -->
